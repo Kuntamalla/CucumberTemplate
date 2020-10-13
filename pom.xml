@@ -20,7 +20,7 @@
         <cucumber-version>1.2.5</cucumber-version>
         <maven-cucumber-reporting-version>3.10.0</maven-cucumber-reporting-version>
         <maven-surefire-plugin-version>2.20</maven-surefire-plugin-version>
-        <junit-version>4.12</junit-version>
+        <junit-version>4.13.1</junit-version>
         <cucumber-picocontainer-version>1.2.5</cucumber-picocontainer-version>
         <doclint>none</doclint>
         <aspectj.version>1.8.10</aspectj.version>
@@ -197,7 +197,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
